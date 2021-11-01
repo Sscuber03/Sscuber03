@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sscuber03
-- 👀 I’m interested in AI,ML, anf also a bit of web development
-- 🌱 I’m currently learning everything about github and codin, currently in btech 1st year
+- 👀 I’m interested in AI,ML, and also a bit of Cybersequrity
+- 🌱 I’m currently learning everything about github and codin, currently in btech 1st year, RCCIIT
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me, please reach my twitter!
 
