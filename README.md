@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me, please reach my twitter!
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+[<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
 <!---
 Sscuber03/Sscuber03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
