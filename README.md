@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Sscuber03
-- 👀 I’m interested in AI,ML, and also a bit of Cybersequrity
-- 🌱 I’m currently learning everything about github and coding, currently in btech 1st year, RCCIIT
+- 👀 I’m interested in AI and ML. Currently learning from the absolute basics of CP
+- 🌱 I’m currently learning everything about github and coding, currently in btech 1st year, RCC Institute of Information Technology
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me, please reach my twitter!
+
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
 <!---
 Sscuber03/Sscuber03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
