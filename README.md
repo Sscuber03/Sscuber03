@@ -2,7 +2,7 @@
 <h3 align="center">Engineering Student, Flutter and WebDev enthusiast</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sscuber03&label=Profile%20views&style=for-the-badge" alt="Sscuber03" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sscuber03&label=Profile%20views&style=for-the-badge" alt="Sscuber03" /> </p> -->
 
 - 📚 I'm a 1st year CSE Student at RCC Institute of Information Technology.
 - 🌱 I’m currently learning **Flutter, Dart, Frontend, DSA**.
