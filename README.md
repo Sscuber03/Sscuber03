@@ -9,15 +9,16 @@
 - 👀 I’m interested in learning more about **Cybersequrity and Web3**.
 - 💞️ I’m looking to contribute everywhere possible, and learn from the collaborations.
 - 🎤 I love to watch anime and solve Rubik's Cube in my free time.
-- 📫 Reach me by my email! **sambit2003sarkar@gmail.com**
 
 
 <h3 align="left">📞 You can Contact me at: <h3>
 <p align="left">
+<a href="mailto:sambit2003sarkar@gmail.com" target="blank"><img align="center" src="./images/icons8-gmail.svg" alt="sambit_sarkar" height="30" width="40" /></a>
 <a href="https://twitter.com/Sambits28225539" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sambit_sarkar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sambit-sarkar-12b041212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sambit_sarkar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Sscuber03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sambit_sarkar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ss_cuber2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sambit_sarkar" height="30" width="40" /></a>
+
 </p>
 
 
