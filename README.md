@@ -4,7 +4,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sscuber03&label=Profile%20views&style=for-the-badge" alt="Sscuber03" /> </p> -->
 
-- 📚 I'm a 1st year CSE Student at RCC Institute of Information Technology.
+- 📚 I'm a 2nd year CSE Student at RCC Institute of Information Technology.
 - 🌱 I’m currently learning **Flutter, Dart, Frontend, DSA**.
 - 👀 I’m interested in learning more about **Cybersequrity and Web3**.
 - 💞️ I’m looking to contribute everywhere possible, and learn from the collaborations.
