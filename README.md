@@ -1,11 +1,11 @@
 <h1 align="center">Hello!👋 I am Sambit Sarkar from Kolkata, India.</h1>
-<h3 align="center">Engineering Student, Flutter and WebDev enthusiast</h3>
+<h3 align="center">Engineering Student, Flutter and Cybersecurity enthusiast</h3>
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sscuber03&label=Profile%20views&style=for-the-badge" alt="Sscuber03" /> </p> -->
 
 - 📚 I'm a 2nd year CSE Student at RCC Institute of Information Technology.
-- 🌱 I’m currently learning **Flutter, Dart, Frontend, DSA**.
+- 🌱 I’m currently learning **Cybersecurity, GameDev, DSA**.
 - 👀 I’m interested in learning more about **Cybersequrity and Web3**.
 - 💞️ I’m looking to contribute everywhere possible, and learn from the collaborations.
 - 🎤 I love to watch anime and solve Rubik's Cube in my free time.
