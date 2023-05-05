@@ -1,5 +1,5 @@
 <h1 align="center">Hello!👋 I am Sambit Sarkar from Kolkata, India.</h1>
-<h3 align="center">Engineering Student, Flutter and Cybersecurity enthusiast</h3>
+<h3 align="center">Engineering Student, GameDev and Cybersecurity enthusiast</h3>
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sscuber03&label=Profile%20views&style=for-the-badge" alt="Sscuber03" /> </p> -->
